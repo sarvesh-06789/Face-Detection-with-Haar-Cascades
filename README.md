@@ -1,4 +1,6 @@
 # Face-Detection-with-Haar-Cascades
+## Name: SHARVESHWARAN M
+## Reg.No: 212224240150
 # Aim
 To write a Python program using OpenCV to perform the following image processing and computer vision operations:
 
